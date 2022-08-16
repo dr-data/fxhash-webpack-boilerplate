@@ -48,6 +48,8 @@ $ npm run build
 
 Will bundle your js dependencies into a single minified `bundle.js` file, move your files from the `public/` to the `dist/` folder, and link the `bundle.js` with the `index.html`.
 
+
+** important: **
 **Moreover, it will create a `dist-zipped/project.zip` file which can be directly imported on fxhash**.
 
 # Develop your token
